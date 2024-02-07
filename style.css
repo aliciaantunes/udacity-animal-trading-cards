@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    padding: 2px;
+}
+
+.thecard {
+    width: 320px;
+    height: auto;
+    border: 1px groove lightgrey;
+    box-shadow: 15px 15px 8px grey;
+    padding-left: 10px;
+    padding-right: 4px;
+    padding: 10px;
+    margin-left: 40%
+}
+
+.myowl {
+    width: 300px;
+    height: 220px;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Resize images */
+
+.myowl img {
+    width: 300px;
+    height: auto;
+
+}
+
+.texts {
+    width: auto;
+    height: auto;
+    border: 1px groove lightgrey;
+    padding-top: 5px;
+    padding-left: 7px;
+    margin-top: 10px;
+
+}
+
+.curiosity1 {
+    font-style: italic;
+}
+
+li {
+    list-style-type: none;
+    padding-right: 0.5px;
+}
+
+t {
+    font-weight: bold;
+}
