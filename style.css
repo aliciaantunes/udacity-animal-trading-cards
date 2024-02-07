@@ -43,9 +43,10 @@ h1 {
     font-style: italic;
 }
 
+ul{ padding-left: 0;}
+
 li {
     list-style-type: none;
-    padding-right: 0.5px;
 }
 
 t {
